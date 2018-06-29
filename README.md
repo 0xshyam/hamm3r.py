@@ -1,7 +1,6 @@
 # hamm3r.py
 A general purpose multi-threaded fuzzer powered by Radamsa
 
-Code coming Soon! 
 
 Issues identified so far:
 <table>
